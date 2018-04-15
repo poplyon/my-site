@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
+@import url(https://raw.githubusercontent.com/poplyon/my-site-home/master/font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
 
 /*
@@ -2934,7 +2934,7 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/banner.jpg');
+		background-image: url('https://i62.servimg.com/u/f62/18/57/57/28/banner10.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
